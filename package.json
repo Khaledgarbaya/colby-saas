@@ -1,0 +1,19 @@
+{
+  "name": "colby-saas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.32.5",
+    "gatsby-plugin-create-client-paths": "^2.10.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
